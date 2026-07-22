@@ -1,68 +1,72 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Vaishnav Verma</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Vaishnav+%F0%9F%91%8B;AI%2FML+Engineer+in+the+making;Full-stack+when+it+counts;Building+things+worth+shipping." alt="typing-svg" />
+<h3 align="center">
+Full Stack Developer • AI/ML Enthusiast • Problem Solver from India 🇮🇳
+</h3>
 
-</div>
+- 🌱 Currently learning **Backend Development, System Design, Deep Learning, and Agentic AI**
+- 💻 Solving **LeetCode** daily and preparing for **Software Engineering interviews**
+- 🚀 Interested in **Full Stack Development, AI/ML, Open Source (GSoC), and Scalable Systems**
+- 👨‍💻 Check out my projects: **https://github.com/vermavaishnav70?tab=repositories**
+- 📫 Reach me at: **vermavaishnav70@gmail.com**
+- 📄 Connect with me on **LinkedIn**
+- ⚡ Fun fact: I love building projects that combine **AI + Web Development**
 
-<br>
+---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## 🌐 Connect with Me
 
-### 🧠 about me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnav-verma-41a585249/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/vermavaishnav70/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vermavaishnav70)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/vermavaishnav70/)
 
-I'm a B.Tech AI student at Newton School of Technology, Rishihood University (2023–2027), currently deep in multi-agent LLM systems, RAG pipelines, and full-stack builds. I like turning "interested in everything" into something shipped.
+---
 
-- 🔭 currently building multi-agent orchestration systems with LangGraph
-- 🌱 revisiting DSA — arrays, strings, sliding window, two pointers
-- 💸 exploring freelancing, open source, and startup ideas
-- ⚡ fun fact: I'd probably watch *The Social Network* again right now
+<h2 align="center">🚀 Building Projects • Learning Every Day • Growing One Commit at a Time</h2>
 
-</td>
-<td width="40%">
+## 🛠️ Languages & Tools
 
-<img src="https://github-readme-stats.vercel.app/api?username=vermavaishnav70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</td>
-</tr>
-</table>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🛠 tech stack
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,fastapi,nodejs,postgres,aws,docker,git,cpp" />
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vermavaishnav70&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vermavaishnav70&theme=tokyonight" />
 </p>
 
-<br>
-
-### 📊 the numbers
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermavaishnav70&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=vermavaishnav70&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-### 🚀 things I've built
-
-<div align="center">
-
-| project | what it does |
-|---|---|
-| **[Space](https://github.com/vermavaishnav70/Space)** | real-time collaborative workspace, Notion-flavored |
-| **[wanderlust](https://github.com/vermavaishnav70/wanderlust)** | AI-powered travel planner |
-| **[Hybrid-Dermatologist](https://github.com/vermavaishnav70/Hybrid-Dermatologist)** | skin condition classifier fusing CNNs with classical ML |
-| **Multi-Agent Interview Panel** | LangGraph-orchestrated mock interview system with live voice |
-
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermavaishnav70&layout=compact&theme=tokyonight" />
+</p>
 
 ### 🐍 contribution snake
 
@@ -71,21 +75,6 @@ I'm a B.Tech AI student at Newton School of Technology, Rishihood University (20
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vermavaishnav70/vermavaishnav70/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/vermavaishnav70/vermavaishnav70/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-<sub>↳ auto-generated daily by a GitHub Action</sub>
-
 </div>
 
 <br>
-
-<div align="center">
-
-### 📫 let's connect
-
-<a href="https://github.com/vermavaishnav70"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br><br>
-
-<sub>currently trying to turn "interested in everything" into "good at one thing."</sub>
-
-</div>
